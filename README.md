@@ -11,7 +11,7 @@ Hello, I'm Aarón Ortega!
 🌎 I'm from México
 🎓 I'm currently studying a Bachelors in Computer Systems Engineering At ITESO
 📝 I have a strong interest in Data Analysis, Cloud, ML, and Data Science
-🌱 Currently doing a course to prepare for the AWS SAA certification exam
+🌱 Currently doing practice exams to prepare for the AWS SAA certification exam
 🌟 Main language: Python
 😃 I look forward to collaborate on impactful projects
 </pre>
