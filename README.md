@@ -13,7 +13,6 @@ Hello, I'm Aarón Ortega!
 📝 I have a strong interest in Data Analysis, Cloud, ML, and Data Science
 🌱 Currently doing practice exams to prepare for the AWS SAA certification exam
 🌟 Main language: Python
-😃 I look forward to collaborate on impactful projects
 </pre>
 <hr>
 
