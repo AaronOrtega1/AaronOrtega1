@@ -41,14 +41,6 @@ Hello, I'm Aarón Ortega!
 </p>
 <br>
 
-## 📊 Github Stats &nbsp;
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=AaronOrtega1&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
 ## 🤝 Connect with me
 <br>
 <p align="center">
