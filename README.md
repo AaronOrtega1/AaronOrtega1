@@ -9,9 +9,9 @@ Hello, I'm Aarón Ortega!
 <hr>
 <pre>
 🌎 I'm from México
-🎓 I studied a Bachelors in Computer Systems Engineering At ITESO
+🎓 I studied a Bachelors in Computer Systems Engineering at <a href="https://www.iteso.mx/" target="_self">ITESO</a>
 📝 I have a strong interest in Data Analysis, Cloud, ML, and Data Science
-🌱 Currently working as a Programming Assistan at Grupo Tenerife
+🌱 Currently working as a Programming Assistant at <a href="https://www.grupotenerife.com.mx/" target="_self">Grupo Tenerife</a>
 🌟 Main language: Python
 </pre>
 <hr>
