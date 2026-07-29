@@ -9,9 +9,9 @@ Hello, I'm Aarón Ortega!
 <hr>
 <pre>
 🌎 I'm from México
-🎓 I'm currently studying a Bachelors in Computer Systems Engineering At ITESO
+🎓 I studied a Bachelors in Computer Systems Engineering At ITESO
 📝 I have a strong interest in Data Analysis, Cloud, ML, and Data Science
-🌱 Currently doing practice exams to prepare for the AWS SAA certification exam
+🌱 Currently working as a Programming Assistan at Grupo Tenerife
 🌟 Main language: Python
 </pre>
 <hr>
@@ -29,11 +29,6 @@ Hello, I'm Aarón Ortega!
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word">&nbsp;&nbsp;
